@@ -45,3 +45,10 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+
+![alt text](<Capture collections.PNG>)
+![alt text](<Capture 1.PNG>)
+ ![alt text](<Capture 2.PNG>)
+  ![alt text](<Capture 4.PNG>)
+   ![alt text](<Capture 3.PNG>) 
+   ![alt text](<Capture collections.PNG>)
